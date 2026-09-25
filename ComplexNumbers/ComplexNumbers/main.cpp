@@ -76,5 +76,6 @@ int main() {
 	cout << number1 / 5 << endl;
 	cout << 5 / number1 << endl;
 	cout << number1 / number2 << endl;
+	
 	return 0;
 }
